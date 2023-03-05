@@ -1,4 +1,4 @@
-#include "doubler.h"
+#include <shmem/doubler.h>
 #include "stdio.h"
 #include <unistd.h>
 

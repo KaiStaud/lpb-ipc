@@ -1,4 +1,4 @@
-#include "doubler.h"
+#include <shmem/doubler.h>
 #include <iostream>
 #include <fcntl.h>
 #include <sys/mman.h>
